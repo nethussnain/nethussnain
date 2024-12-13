@@ -3,6 +3,10 @@
 ## 🌟 About Me
 Hi, I'm **Hussnain Ahmad** (aka **Net Hussnain**), a passionate web developer, CEH (Certified Ethical Hacker) student, and tech enthusiast with over 6 years of experience in blogging and development. I specialize in building secure and efficient web solutions while helping others stay safe online. My journey in tech started in 2017, and since then, I have been dedicated to learning and sharing knowledge.
 
+
+## 👻 Net Hussnain
+🚀 Net Hussnain — Certified Ethical Hacking (CEH) Student | 💻 Web Developer (HTML, CSS, JS, PHP) | 📜 Tech Blogger Since 2017 | 🎨 Logo & Graphic Designer | 🛠️ Secure PHP & Malicious Code Specialist | 📱 Basic Android Studio Skills.
+
 ---
 
 ## 💻 Skills & Expertise
