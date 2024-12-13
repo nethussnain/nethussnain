@@ -34,7 +34,7 @@ Here are some of the projects I am proud of:
 - **Email:** [nethussnain@gmail.com](mailto:nethussnain@gmail.com)
 - **WhatsApp:** [+447988572818](https://wa.me/447988572818)
 - **Twitter:** [FixAllHub](https://twitter.com/FixAllHub)
-- **YouTube:** [Al Nafees Video Production]([#](https://www.youtube.com/channel/UCqBfsAqywrea_kUoHHl6ROA?sub_confirmation=1))
+- **YouTube:** [Al Nafees Video Production](https://www.youtube.com/channel/UCqBfsAqywrea_kUoHHl6ROA?sub_confirmation=1)
 
 ---
 
