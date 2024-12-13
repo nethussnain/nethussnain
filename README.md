@@ -1,4 +1,3 @@
-  ![761f22b2c1593d0bb87e0b606f990ba4974706de](https://github.com/user-attachments/assets/c1546507-023f-4896-849d-b9fcfe044cc9)
 
                                                                   # Hi there, I'm Net Hussnain! 👋
                                                                 New science and technology experiments.
