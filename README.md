@@ -1,6 +1,7 @@
+# Hi there, I'm Net Hussnain! 👋
 
-                                                                  # Hi there, I'm Net Hussnain! 👋
-                                                                New science and technology experiments.
+New science and technology experiments.
+
 ## 🌟 About Me
 Hi, I'm **Hussnain Ahmad** (aka **Net Hussnain**), a passionate web developer, CEH (Certified Ethical Hacker) student, and tech enthusiast with over 6 years of experience in blogging and development. I specialize in building secure and efficient web solutions while helping others stay safe online. My journey in tech started in 2017, and since then, I have been dedicated to learning and sharing knowledge.
 
